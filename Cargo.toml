@@ -1,6 +1,6 @@
 [package]
 name = "rusty-scheduler"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Scotch101Tape <scotch101tape@gmail.com>"]
 edition = "2021"
 description = "A single threaded closure and function scheduler"
