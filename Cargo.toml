@@ -1,8 +1,10 @@
 [package]
 name = "rusty-scheduler"
 version = "0.1.0"
-authors = ["Scotch101Tape"]
+authors = ["Scotch101Tape <scotch101tape@gmail.com>"]
 edition = "2021"
+description = "A single threaded closure and function scheduler"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

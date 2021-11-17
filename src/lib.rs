@@ -84,7 +84,7 @@ mod tests {
     use crate::{Scheduler};
     #[test]
     fn example_of_api() {
-        let mut schedular = Scheduler::new();
+        let schedular = Scheduler::new();
 
         let x = 1;
         schedular.defer(move || {
