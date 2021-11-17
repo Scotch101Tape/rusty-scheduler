@@ -1,6 +1,5 @@
 use std::cell::RefCell;
 use std::collections::VecDeque;
-use std::io::Repeat;
 
 enum Task {
     Repeat(Box<dyn FnMut()>),
